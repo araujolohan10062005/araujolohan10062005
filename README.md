@@ -1,12 +1,5 @@
 # sobre mim
-Estou interessado ...
-- 👋 Hi, I’m @araujolohan10062005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-araujolohan10062005/araujolohan10062005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @lohan
+- 👀 I’m interested in  programar
+- 🌱 I’m currently learning  scrathc
+-  meu email de contato e  araujo.lohan@escola.pr.gov.br
